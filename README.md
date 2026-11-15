@@ -1,9 +1,5 @@
 # 48 周具身智能学习计划
 
-阶段0：基础筑基期（第1~12周）
-
-第1~4周：C语言 + 数据结构
-
 第1周	变量、数据类型、运算符、流程控制（if/switch/for/while）、函数定义与调用	完成50道C语言基础编程题（PTA/洛谷）
 
 * 2026/10/26
@@ -46,10 +42,14 @@
 
 第10周	NumPy数组操作、Matplotlib绘图、Pandas基础数据处理、多线程/多进程	用NumPy实现一个图像灰度化+直方图可视化工具
 
-* 
-
-第11~12周：Linux系统基础
+*
 
 第11周	Linux安装（Ubuntu虚拟机/WSL）、常用命令（ls/cd/grep/find/tar）、文件权限、用户管理	在Linux下完成全套命令行操作练习，熟练度达标
 
-第12周	进程管理（ps/top/kill）、环境变量、Shell脚本基础、GCC编译、Makefile/CMake基础	编写Makefile/CMakeLists.txt编译一个多文件C++项目
+第12周	进程管理（ps/top/kill）、环境变量、Shell脚本基础、GCC编译、Makefile/CMake基础 编写Makefile/CMakeLists.txt编译一个多文件C++项目
+
+第13周	Qt环境搭建、信号与槽机制、QWidget/QMainWindow、布局管理（HBox/VBox/Grid）	实现一个带菜单栏+工具栏+状态栏的基础桌面应用框架
+
+第14周	常用控件（QPushButton/QLabel/QLineEdit/QTextEdit/QComboBox/QTableWidget）、事件处理	实现一个简易记事本（打开/保存/查找替换/字体设置）
+
+第15周	自定义控件、QPainter绘图、鼠标/键盘事件重写、样式表（QSS）	实现一个仪表盘控件（圆形刻度盘+指针+数值显示）
